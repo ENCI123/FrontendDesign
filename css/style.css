@@ -1,0 +1,19 @@
+.vertical-nav {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 96vw;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  background-color: black;
+}
+
+.nav {
+  justify-content: space-between;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  padding: .5em;
+  height: auto;
+}
